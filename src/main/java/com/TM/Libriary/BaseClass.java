@@ -17,6 +17,7 @@ public class BaseClass extends GenericFunctions {
 	public void endMethod() {
 
 		driver.close();
+	
 	}
 
 }
