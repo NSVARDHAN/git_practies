@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-15T10:30:49 IST" name="Default suite" finished-at="2022-10-15T10:31:48 IST" duration-ms="59021">
+    <groups>
+    </groups>
+    <test started-at="2022-10-15T10:30:49 IST" name="Default test" finished-at="2022-10-15T10:31:48 IST" duration-ms="59021">
+      <class name="com.TM.TestCases.LoginScreen">
+        <test-method is-config="true" signature="startMethod()[pri:0, instance:com.TM.TestCases.LoginScreen@1e04fa0a]" started-at="2022-10-15T10:30:49 IST" name="startMethod" finished-at="2022-10-15T10:31:30 IST" duration-ms="40732" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startMethod -->
+        <test-method signature="regFunction()[pri:1, instance:com.TM.TestCases.LoginScreen@1e04fa0a]" started-at="2022-10-15T10:31:30 IST" name="regFunction" finished-at="2022-10-15T10:31:38 IST" duration-ms="7665" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- regFunction -->
+        <test-method is-config="true" signature="endMethod()[pri:0, instance:com.TM.TestCases.LoginScreen@1e04fa0a]" started-at="2022-10-15T10:31:38 IST" name="endMethod" finished-at="2022-10-15T10:31:39 IST" duration-ms="1509" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endMethod -->
+        <test-method is-config="true" signature="startMethod()[pri:0, instance:com.TM.TestCases.LoginScreen@1e04fa0a]" started-at="2022-10-15T10:31:39 IST" name="startMethod" finished-at="2022-10-15T10:31:46 IST" duration-ms="6359" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startMethod -->
+        <test-method signature="loginFunction()[pri:2, instance:com.TM.TestCases.LoginScreen@1e04fa0a]" started-at="2022-10-15T10:31:46 IST" name="loginFunction" finished-at="2022-10-15T10:31:48 IST" duration-ms="2500" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginFunction -->
+        <test-method is-config="true" signature="endMethod()[pri:0, instance:com.TM.TestCases.LoginScreen@1e04fa0a]" started-at="2022-10-15T10:31:48 IST" name="endMethod" finished-at="2022-10-15T10:31:48 IST" duration-ms="197" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endMethod -->
+      </class> <!-- com.TM.TestCases.LoginScreen -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
